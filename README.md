@@ -1,5 +1,5 @@
 README.md
-# 1v1 App
+# MATH 1v1 App
 
 Welcome to the 1v1 App! This application allows users to engage in one-on-one challenges, be it games, quizzes, or any competitive activities. 
 
