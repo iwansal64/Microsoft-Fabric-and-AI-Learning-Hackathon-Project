@@ -21,3 +21,4 @@ Welcome to the 1v1 App! This application allows users to engage in one-on-one ch
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/1v1-app.git
+   
